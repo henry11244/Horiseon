@@ -84,7 +84,6 @@ During the duration of this project, I refactored Horiseon's webpage to ensure i
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- ROADMAP -->
 ## Improvements made
 
 - HTML 
@@ -94,20 +93,20 @@ During the duration of this project, I refactored Horiseon's webpage to ensure i
     - Improved semantic elements for improve accessibility and understandability
     - Corrected navigation bar links
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+<br>
+
+- CSS 
+    - Combined styles of similiar elements to reduce the quantity of codes
+    - Change font sizes into percentages so they remain in their containers as the page size changes.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- CONTACT -->
 ## Contact
 
 Henry Nguyen -  hln11244@gmail.com
