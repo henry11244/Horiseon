@@ -1,3 +1,5 @@
+/* Combined similiar elements to condense the number of lines needed */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -27,15 +29,7 @@ header {
     font-size: 48px;
 }
 
-.header nav {
-    padding-top: 15px;
-    margin-right: 20px;
-    float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
-    list-style-type: none;
-}
-
+.header nav,
 .header.small nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -113,10 +107,8 @@ a {
     padding: 50px;
     background-color: #0072bb;
     color: #ffffff;
-
     min-height: 300px;
 }
-
 
 .content img {
     max-height: 200px;
